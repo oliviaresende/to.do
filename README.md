@@ -6,8 +6,8 @@ Project to list tasks.
 ## *About the project* ⭐️
 ### *Main features:*
 
-- Add a new task Adicionar uma nova tarefa
-- Remove a task Remover uma tarefa
+- Add a new task 
+- Remove a task 
 - Check and uncheck a task as completed 
 
 ### *Technologies used:*
@@ -27,7 +27,7 @@ Project to list tasks.
 ****
 ## *How to run the project?* 🚀
 ###  *Prerequisites:*
-1. Have the **[Node js](https://nodejs.org/en/) instalado** and combined him the **[Yarn](https://yarnpkg.com/)**;
+1. Have the **[Node js](https://nodejs.org/en/) instalado** and combined it with **[Yarn](https://yarnpkg.com/)**;
 
 2. **Clone the repository** on your machine, using the command below on your terminal:
 
